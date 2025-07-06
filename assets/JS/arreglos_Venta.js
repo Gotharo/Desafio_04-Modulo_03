@@ -7,7 +7,7 @@ const propiedadesVenta = [
     ubicacion: 'Vitacura, Santiago',
     habitaciones: 3,
     baño: 2,
-    costo: 270000000,
+    costo: "284,210.53",
     smoke: false,
     pets: true
   },
@@ -18,7 +18,7 @@ const propiedadesVenta = [
     ubicacion: 'La Reina, Santiago',
     habitaciones: 4,
     baño: 3,
-    costo: 320000000,
+    costo: "336,842",
     smoke: true,
     pets: true
   },
@@ -29,7 +29,7 @@ const propiedadesVenta = [
     ubicacion: 'Santiago Centro, Santiago',
     habitaciones: 1,
     baño: 1,
-    costo: 78000000,
+    costo: "82,105.26",
     smoke: false,
     pets: false
   },
@@ -40,7 +40,7 @@ const propiedadesVenta = [
     ubicacion: 'Peñalolén, Santiago',
     habitaciones: 2,
     baño: 1,
-    costo: 145000000,
+    costo: "152,631.58",
     smoke: true,
     pets: true
   },
@@ -51,7 +51,7 @@ const propiedadesVenta = [
     ubicacion: 'Providencia, Santiago',
     habitaciones: 1,
     baño: 1,
-    costo: 165000000,
+    costo: "173,684.21",
     smoke: false,
     pets: true
   },
@@ -62,7 +62,7 @@ const propiedadesVenta = [
     ubicacion: 'Ñuñoa, Santiago',
     habitaciones: 3,
     baño: 2,
-    costo: 210000000,
+    costo: "221,052.63",
     smoke: true,
     pets: false
   }
