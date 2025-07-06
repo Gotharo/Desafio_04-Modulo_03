@@ -11,9 +11,16 @@
 }
 
 .card {
-    height: 100px;
+    height: 200px;
+    
 }
 
 .card img{
     height: 250px;
+}
+
+.venta {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
 }
